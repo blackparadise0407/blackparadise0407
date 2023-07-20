@@ -1,8 +1,6 @@
 PAGE IS UNDER CONSTRUCTION 🚧
 
-<div id="badges">
-  <a href=""https://www.linkedin.com/in/khoa-pham-a61a471a5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  
-</div>
+[![Top Langs](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-pham-a61a471a5)
 
 <!--
 **blackparadise0407/blackparadise0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
