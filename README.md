@@ -8,11 +8,11 @@
 
 ## Something about me
 
-Introducing a seasoned web developer with a flair for innovation and a keen eye for detail, aged 24 and armed with over three years of industry experience. In a digital landscape that thrives on constant evolution, this individual stands out as a dynamic professional who has not only embraced change but has also been a driving force behind it. With a solid foundation in web development, their journey began three years ago and has since been marked by a continuous pursuit of excellence in the realms of coding, design, and user experience.
+Introducing a seasoned web developer with a flair for innovation and a keen eye for detail, aged 24 and armed with over four years of industry experience. In a digital landscape that thrives on constant evolution, this individual stands out as a dynamic professional who has not only embraced change but has also been a driving force behind it. With a solid foundation in web development, their journey began three years ago and has since been marked by a continuous pursuit of excellence in the realms of coding, design, and user experience.
 
 ## Work experiences
 
-1. [iDeaLogic Vietnam](https://www.idealogic.com.vn) · Full-time (Aug 2021 - Present · 2 yrs 1 mo)
+1. [iDeaLogic Vietnam](https://www.idealogic.com.vn) · Full-time (Aug 2021 - Present)
 
    Participating in developing PublishOne's products, writing unit tests, reviewing code, ...
 
